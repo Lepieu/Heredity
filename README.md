@@ -13,7 +13,7 @@ For any file added, format it like this
 
 The first line in the file must be: name,mother,father,trait
 
-After that, each line represents a person, and the data inputted should follow the above instructions
+After that, each line represents a person, and the data inputted should follow the above instructions (name, mother's name, father's name, 1 if have trait, 0 if not). Make sure it is separated by commas
 
 Each person must have a name, but they may or may not have a known mother/father and it may or may not be known if they have the trait. If any information is not known, leave it blank
 
