@@ -33,7 +33,7 @@ In the example file, it is formatted like this:
 
 ## Modifications
 
-in heredity.py, the values of PROBS can be modified if you would like to change the gene being tracked, or to mess around with different numbers.
+in heredity.py, the values of PROBS can be modified if you would like to change the gene or mess around with different numbers.
 
 "gene" represents the probability you have 0, 1, or 2 copies of the gene given you have no known parents
 
